@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+You've heard of elf on the shelf, but have you heard of coupons on the ..uh.... web
