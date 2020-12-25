@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Hi! It's been an odd year and I wanted to try something equally odd instead of just doing the standard coupons this year! 
   So I spun up this simple site.
   Each post is a redeemable coupon for an event gift. 
-baseurl: "/solennial" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "noscible-scribbles.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
