@@ -5,6 +5,6 @@ date:   2020-12-25 00:00:00 -0500
 categories: redeemable
 ---
 
-![Bed and Breakfast](/assets/dadfawlty.png)
+![Bed and Breakfast]({{site.baseurl}}/assets/dadfawlty.png)
 
 **What:** Breakfast in Bed. Its in the title, duh. This must be redeemed at least 24 hours ahead of time to ... allow me to adjust my sleep schedule accordingly. 
